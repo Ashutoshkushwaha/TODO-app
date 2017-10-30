@@ -1,0 +1,24 @@
+.mybody{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    border-style: groove;
+}
+.completestatus{
+    background-color:#ffca81;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: line-through;
+    font-size: 17px;
+    font-family: Arial;
+}
+.activestatus{
+    background-color: darkseagreen;
+    margin: 5px;
+    padding: 10px;
+    font-size: 17px;
+    font-family: Arial;
+}
+.btn{
+    margin: 2px;
+}
